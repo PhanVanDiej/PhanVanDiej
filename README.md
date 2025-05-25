@@ -1,4 +1,14 @@
-## Hi there 👋
+## How's your day going 👋
+Currently, I'm a third-year colledge student at University of Information Technology 👨‍🎓 
+
+My major is **Java Software Engineering** and I am **looking for** a Intern position :
+
+( `Java Dev Springboot Backend`, `Java Websocket`, `ASP.NET`, `React Native Frontend`, `Kotlin Mobile App` )
+
+🔗 How to contact me : [Facebook](https://www.facebook.com/ne.dai.52/) , [Email](mailto:vandaihk17@gmail.com)
+
+_"Every time you sneeze, know that I’m thinking of you."_ 💖
+
 
 <!--
 **PhanVanDiej/PhanVanDiej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
