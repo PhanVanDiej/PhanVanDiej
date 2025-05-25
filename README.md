@@ -5,7 +5,7 @@ My major is **Java Software Engineering** and I am **looking for** a Intern posi
 
 ( `Java Dev Springboot Backend`, `Java Websocket`, `ASP.NET`, `React Native Frontend`, `Kotlin Mobile App` )
 
-🔗 How to contact me : [Facebook](https://www.facebook.com/ne.dai.52/) , [Email](mailto:vandaihk17@gmail.com)
+🔗 How to contact me : [Facebook](https://www.facebook.com/ne.dai.52/) , <a href="mailto:vandaihk17@gmail.com">📩 Email</a>
 
 _"Every time you sneeze, know that I’m thinking of you."_ 💖
 
