@@ -3,7 +3,7 @@ Currently, I'm a third-year colledge student at University of Information Techno
 
 My major is **Java Software Engineering** and I am **looking for** a Intern position :
 
-( `Java Dev Springboot Backend`, `Java Dev Websocket`, `ASP.NET`, `JavaScript/TypeSrcipt Frontend`, `Kotlin Mobile App` )
+( `Java Developer`, `ASP.NET`, `JavaScript/TypeSrcipt Frontend`, `Android Java/Kotlin` )
 
 🔗 How to contact me : [Facebook](https://www.facebook.com/ne.dai.52/) , Email : _vandaihk17@gmail.com_
 
