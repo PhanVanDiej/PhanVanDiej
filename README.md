@@ -1,9 +1,9 @@
 ## How's your day going 👋
-Currently, I'm a third-year colledge student at University of Information Technology 👨‍🎓 
+Currently, I'm a fourth-year colledge student at University of Information Technology and a Java Developer at FPT SOFT👨‍🎓 
 
-My major is **Java Software Engineering** and I am **looking for** a Intern position :
+My major is **Java Software Engineering** and I am working on  :
 
-( `Java Developer`, `ASP.NET`, `JavaScript/TypeSrcipt Frontend`, `Android Java/Kotlin` )
+( `Java Core`, `ASP.NET`, `JavaScript/TypeSrcipt Frontend`, `Spring Framework`, `Salesforce e-commerce` )
 
 🔗 How to contact me : [Facebook](https://www.facebook.com/ne.dai.52/) , Email : _vandaihk17@gmail.com_
 
