@@ -5,7 +5,7 @@ My major is **Java Software Engineering** and I am working on  :
 
 ( `Java Core`, `ASP.NET`, `JavaScript/TypeSrcipt Frontend`, `Spring Framework`, `Salesforce e-commerce` )
 
-🔗 How to contact me : [Facebook](https://www.facebook.com/ne.dai.52/) , Email : _vandaihk17@gmail.com_
+🔗 How to contact me : [Facebook](https://www.facebook.com/ne.dai.52/) , Email : _vandaihk17@gmail.com_, [Portfolio](https://phanvandiej.github.io/Porfolio/)
 
 _"Every time you sneeze, know that I’m thinking of you."_ 💖
 
